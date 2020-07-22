@@ -11,7 +11,7 @@
 
 ## :man_technologist: Desenvolvedor Front-End 
 
-Com dois anos de estudo em desenvolvimento, tenho visado sempre aprimorar os conhecimentos que adquiri e me manter atualizado. A busca por aprendizados é o que me move. Aqui no meu GitHub você encontrará com a tag **_projeto_** algumas das aplicações que fiz durante meus estudos pessoais e durante o curso Full Stack Web Developer da Labenu* :orange_book: 
+Com dois anos de estudo em desenvolvimento, tenho visado sempre aprimorar os conhecimentos que adquiri e me manter atualizado. A busca por aprendizados é o que me move. Aqui no meu GitHub você encontrará com a tag **_projeto_** algumas das aplicações que fiz durante meus estudos pessoais e durante o curso Web Full Stack Web Development da Labenu* :orange_book: 
 
 
 - :wrench: Tecnologias: Javascript, ReactJS, Node.js, Typescript, SQL (...)
