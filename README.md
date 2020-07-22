@@ -5,7 +5,7 @@
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) -->
 <br>
 
-## :man_technologist: Desenvolvedor Front-End 
+## :man_technologist: Full Stack Web Developer 
 
 Com dois anos de estudo em desenvolvimento, tenho visado sempre aprimorar os conhecimentos que adquiri e me manter atualizado. A busca por aprendizados é o que me move. Aqui no meu GitHub você encontrará com a tag **_projeto_** algumas das aplicações que fiz durante meus estudos pessoais e durante o curso Web Full Stack Web Development da Labenu* :orange_book: 
 
