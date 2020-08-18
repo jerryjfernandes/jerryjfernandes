@@ -5,13 +5,13 @@
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) -->
 <br>
 
-## :man_technologist: Full Stack Web Developer 
+## :man_technologist: Front-End Developer 
 
 Com dois anos de estudo em desenvolvimento, tenho visado sempre aprimorar os conhecimentos que adquiri e me manter atualizado. A busca por aprendizados é o que me move. Aqui no meu GitHub você encontrará com a tag **_projeto_** algumas das aplicações que fiz durante meus estudos pessoais e durante o curso Web Full Stack Web Development da Labenu* :orange_book: 
 
 
 - :wrench: Tecnologias: Javascript, ReactJS, Node.js, Typescript, SQL (...)
-- :books: Atualmente estudando Clojure
+- :books: Atualmente estudando React Native
 
 
 > * A [Labenu](https://www.labenu.com.br/) é uma startup de tecnologia que oferece um bootcamp com mais de 1000 horas de aulas e projetos em desenvolvimento Full Stack, o que faz com que seus alunos sejam profissionais completos tanto no Back-End quanto no Front-End.
