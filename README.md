@@ -7,7 +7,7 @@
 
 ## :man_technologist: Front-End Developer 
 
-_Dev Front-End na V4 Company_
+_Dev Front-End na V4 Company_ <br>
 _Aluno de Engenharia de Software na Estácio_
 
 
