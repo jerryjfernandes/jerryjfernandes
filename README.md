@@ -7,11 +7,5 @@
 
 ## :man_technologist: Front-End Developer 
 
-_Aluno de Engenharia de Software na Estácio_
-
-
-<!-- A busca por aprendizados é o que me move. Aqui no meu GitHub você encontrará com a tag **_projeto_** algumas das aplicações que fiz durante meus estudos pessoais e durante o curso Web Full Stack Web Development da Labenu* :orange_book: -->
-
-
-- :wrench: Tecnologias: Javascript, ReactJS, Next, HTML, CSS, Typescript;
-- :books: Atualmente estudando Java;
+- :wrench: Tecnologias: Javascript, ReactJS, Node.js, Next, HTML, CSS, Typescript;
+- :books: Atualmente estudando Desenvolvimento Full Cycle com temas como Arquitetura, DDD, SOLID, RabbitMQ, Apache Kafka e outros;
