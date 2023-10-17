@@ -5,7 +5,7 @@
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) -->
 <br>
 
-## :man_technologist: Front-End Developer 
+## :man_technologist: Software Engineer
 
 - :wrench: Tecnologias: Javascript, ReactJS, Node.js, Next, HTML, CSS, Typescript;
 - :books: Atualmente estudando Desenvolvimento Full Cycle com temas como Arquitetura, DDD, SOLID, RabbitMQ, Apache Kafka e outros;
