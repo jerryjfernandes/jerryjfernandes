@@ -7,5 +7,5 @@
 
 ## :man_technologist: Software Engineer
 
-- :wrench: Tecnologias: Javascript, ReactJS, Node.js, Next, HTML, CSS, Typescript;
-- :books: Atualmente estudando Desenvolvimento Full Cycle com temas como Arquitetura, DDD, SOLID, RabbitMQ, Apache Kafka e outros;
+- :wrench: Tecnologias: Javascript, ReactJS, Vue.js, Node.js, Next, HTML, CSS, Typescript;
+<!-- - :books: Atualmente estudando Desenvolvimento Full Cycle com temas como Arquitetura, DDD, SOLID, RabbitMQ, Apache Kafka e outros; -->
